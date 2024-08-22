@@ -1,0 +1,71 @@
+
+body {
+    margin: 0;
+    color: red;
+    background: black;
+    font-family: "Bungee Tint", sans-serif;
+    text-align: center;
+}
+}
+
+
+
+h1 {
+    border-bottom: solid 10px rgb(155, 155, 7);
+    padding: 5px;
+    margin:30px;
+}
+
+.up{padding-right:30px;}
+
+section {
+    background: black;
+    padding-top: 30px;
+
+    
+}
+
+.primeira{background: red; font-size: 50px;}
+
+.ancora1 {
+    margin: 20px ; 
+   
+}
+
+.ancora1 img:hover {opacity: 1.0;
+    border: 1px solid rgb(155, 155, 7);}
+
+
+.ancora1 h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+.ancora1 .Thumb {
+    display: block;
+    height: 500px;
+    margin: 0 auto;
+}
+
+
+.vídeo {
+    text-align: center;
+}
+
+
+.legendas3 {
+    text-align: center;
+}
+
+
+.recomendados img {
+    opacity: 0.5;
+    height: 120px;
+    margin: 5px;
+}
+
+.recomendados img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(155, 155, 7);
+}
